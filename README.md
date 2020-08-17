@@ -4,7 +4,7 @@ Research into primarily race and gender bias in machine learning algorithms. Are
 
 Authors:
 * Hannah Galbraith
-* Trina Rutz
+* Casper (Trina) Rutz
 * William Mass
 * Chad Tolleson
 * AnnieMerlin Kanthavel
